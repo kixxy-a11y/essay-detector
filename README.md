@@ -11,7 +11,7 @@ This app uses a trained AI model to analyze essays or text input and outputs:
 - Whether the text is **AI-generated** or **human-written**
 - Confidence percentages for both categories
 
-The interface is interactive, browser-based, and fully handled by Streamlit. The app is deployed online using **Replit** and requires no setup for users.
+The interface is interactive, browser-based, and fully handled by Streamlit. The app is deployed online using **Streamlit** and requires no setup for users.
 
 ---
 
@@ -27,7 +27,7 @@ The interface is interactive, browser-based, and fully handled by Streamlit. The
 
 ## Live Demo
 
-[Try the app here](YOUR-REPLIT-LINK-HERE)
+[Try the app here](https://essay-detector-harryjake.streamlit.app/)
 
 ---
 
@@ -36,7 +36,7 @@ The interface is interactive, browser-based, and fully handled by Streamlit. The
 - Python
 - Streamlit
 - Joblib (for model loading)
-- Replit (deployment)
+- Streamlit (deployment)
 
 ---
 
